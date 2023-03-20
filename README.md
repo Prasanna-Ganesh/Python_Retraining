@@ -1,7 +1,11 @@
 # Python_Retraining
 
-###Process
+### Process
+```
 seperated by logic and presentation files
+```
 
-###Newly performed features
+### Newly performed features
+```
 Defining from one file, Calling from seperate file & class has been created in one file
+```
